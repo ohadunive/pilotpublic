@@ -1,3 +1,2 @@
 Pass: ohad
-sam : computer
-
+sam : test
